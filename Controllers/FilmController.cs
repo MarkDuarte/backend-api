@@ -10,12 +10,10 @@ namespace film_api.Controllers
     private static int id = 0;
 
     [HttpPost]
-    public void AddFilm([FromBody]Film film) {
+    public IActionResult AddFilm([FromBody]Film film) {
       film.Id = id++;
       films.Add(film);
-      Console.WriteLine(film.Title);
-      Console.WriteLine(film.Genere);
-      Console.WriteLine(film.Duraction);
+      return CreatedAtAction(nameof(getFilm), new { id = film.Id }, film );
     }
 
     [HttpGet]
@@ -24,8 +22,12 @@ namespace film_api.Controllers
     }
 
     [HttpGet("{id}")]
-    public Film? getFilm(int id) {
-      return films.FirstOrDefault(film => film.Id == id);
+    public IActionResult getFilm(int id) {
+      var film = films.FirstOrDefault(film => film.Id == id);
+      if (film == null) {
+        return NotFound();
+      }
+      return Ok(film);
     }
   }
 }
