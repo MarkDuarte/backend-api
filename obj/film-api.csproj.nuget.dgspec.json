@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/marcosduarte/Documents/cSharp/filmesApi/film-api/film-api.csproj": {}
+    "/Users/marcosduarte/Documents/projetos em C/backend-api/film-api.csproj": {}
   },
   "projects": {
-    "/Users/marcosduarte/Documents/cSharp/filmesApi/film-api/film-api.csproj": {
+    "/Users/marcosduarte/Documents/projetos em C/backend-api/film-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/marcosduarte/Documents/cSharp/filmesApi/film-api/film-api.csproj",
+        "projectUniqueName": "/Users/marcosduarte/Documents/projetos em C/backend-api/film-api.csproj",
         "projectName": "film-api",
-        "projectPath": "/Users/marcosduarte/Documents/cSharp/filmesApi/film-api/film-api.csproj",
+        "projectPath": "/Users/marcosduarte/Documents/projetos em C/backend-api/film-api.csproj",
         "packagesPath": "/Users/marcosduarte/.nuget/packages/",
-        "outputPath": "/Users/marcosduarte/Documents/cSharp/filmesApi/film-api/obj/",
+        "outputPath": "/Users/marcosduarte/Documents/projetos em C/backend-api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/marcosduarte/.nuget/NuGet/NuGet.Config"
@@ -41,6 +41,20 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.11, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

@@ -31,3 +31,36 @@
 /Users/marcosduarte/Documents/cSharp/filmesApi/film-api/obj/Debug/net7.0/film-api.pdb
 /Users/marcosduarte/Documents/cSharp/filmesApi/film-api/obj/Debug/net7.0/film-api.genruntimeconfig.cache
 /Users/marcosduarte/Documents/cSharp/filmesApi/film-api/obj/Debug/net7.0/ref/film-api.dll
+/Users/marcosduarte/Documents/projetos em C/backend-api/bin/Debug/net7.0/appsettings.Development.json
+/Users/marcosduarte/Documents/projetos em C/backend-api/bin/Debug/net7.0/appsettings.json
+/Users/marcosduarte/Documents/projetos em C/backend-api/bin/Debug/net7.0/film-api
+/Users/marcosduarte/Documents/projetos em C/backend-api/bin/Debug/net7.0/film-api.deps.json
+/Users/marcosduarte/Documents/projetos em C/backend-api/bin/Debug/net7.0/film-api.runtimeconfig.json
+/Users/marcosduarte/Documents/projetos em C/backend-api/bin/Debug/net7.0/film-api.dll
+/Users/marcosduarte/Documents/projetos em C/backend-api/bin/Debug/net7.0/film-api.pdb
+/Users/marcosduarte/Documents/projetos em C/backend-api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/marcosduarte/Documents/projetos em C/backend-api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/marcosduarte/Documents/projetos em C/backend-api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/marcosduarte/Documents/projetos em C/backend-api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/marcosduarte/Documents/projetos em C/backend-api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/marcosduarte/Documents/projetos em C/backend-api/obj/Debug/net7.0/film-api.csproj.AssemblyReference.cache
+/Users/marcosduarte/Documents/projetos em C/backend-api/obj/Debug/net7.0/film-api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcosduarte/Documents/projetos em C/backend-api/obj/Debug/net7.0/film-api.AssemblyInfoInputs.cache
+/Users/marcosduarte/Documents/projetos em C/backend-api/obj/Debug/net7.0/film-api.AssemblyInfo.cs
+/Users/marcosduarte/Documents/projetos em C/backend-api/obj/Debug/net7.0/film-api.csproj.CoreCompileInputs.cache
+/Users/marcosduarte/Documents/projetos em C/backend-api/obj/Debug/net7.0/film-api.MvcApplicationPartsAssemblyInfo.cs
+/Users/marcosduarte/Documents/projetos em C/backend-api/obj/Debug/net7.0/film-api.MvcApplicationPartsAssemblyInfo.cache
+/Users/marcosduarte/Documents/projetos em C/backend-api/obj/Debug/net7.0/staticwebassets/msbuild.film-api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/marcosduarte/Documents/projetos em C/backend-api/obj/Debug/net7.0/staticwebassets/msbuild.build.film-api.props
+/Users/marcosduarte/Documents/projetos em C/backend-api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.film-api.props
+/Users/marcosduarte/Documents/projetos em C/backend-api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.film-api.props
+/Users/marcosduarte/Documents/projetos em C/backend-api/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/marcosduarte/Documents/projetos em C/backend-api/obj/Debug/net7.0/staticwebassets.build.json
+/Users/marcosduarte/Documents/projetos em C/backend-api/obj/Debug/net7.0/staticwebassets.development.json
+/Users/marcosduarte/Documents/projetos em C/backend-api/obj/Debug/net7.0/scopedcss/bundle/film-api.styles.css
+/Users/marcosduarte/Documents/projetos em C/backend-api/obj/Debug/net7.0/film-api.csproj.CopyComplete
+/Users/marcosduarte/Documents/projetos em C/backend-api/obj/Debug/net7.0/film-api.dll
+/Users/marcosduarte/Documents/projetos em C/backend-api/obj/Debug/net7.0/refint/film-api.dll
+/Users/marcosduarte/Documents/projetos em C/backend-api/obj/Debug/net7.0/film-api.pdb
+/Users/marcosduarte/Documents/projetos em C/backend-api/obj/Debug/net7.0/film-api.genruntimeconfig.cache
+/Users/marcosduarte/Documents/projetos em C/backend-api/obj/Debug/net7.0/ref/film-api.dll
